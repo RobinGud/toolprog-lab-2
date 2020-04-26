@@ -17,3 +17,5 @@
 # commit in feature branch
 
 # commit in feature 2 branch
+
+# commit release in master
